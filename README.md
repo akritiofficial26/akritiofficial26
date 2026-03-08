@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Akriti Kumari
 
+🎓 I am a B.Tech CSE student  
+💻 Passionate about UI/UX and Frontend Development  
+🚀 Currently learning Full Stack Development  
+📚 Solving DSA in Java  
+
+- 🔭 I’m currently working on **Women Safety App**
+- 🌱 I’m currently learning **React & Node**
+- 👯 I’m looking to collaborate on **Frontend Projects**
+- 💬 Ask me about **Java, React, UI/UX**
 <!--
 **akritiofficial26/akritiofficial26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
