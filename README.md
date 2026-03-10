@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React & Node**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - 💬 Ask me about **Java, React, UI/UX**
-- - 📫 How to reach me: akritiofficial26@gmail.com
+-  📫 How to reach me: akritiofficial26@gmail.com
 <!--
 **akritiofficial26/akritiofficial26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
