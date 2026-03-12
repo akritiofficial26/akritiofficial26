@@ -1,11 +1,11 @@
 # Hi 👋, I'm Akriti Kumari
 
-🎓 I am a B.Tech CSE student  
+🎓 I am a B.Tech CSE Final Year student  
 💻 Passionate about UI/UX and Frontend Development  
 🚀 Currently learning Full Stack Development  
 📚 Solving DSA in Java  
 
-- 🔭 I’m currently working on **Women Safety App**
+- 🔭 I’m currently working on **Employee Management System**
 - 🌱 I’m currently learning **React & Node**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - 💬 Ask me about **Java, React, UI/UX**
