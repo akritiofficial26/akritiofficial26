@@ -1,16 +1,3 @@
-# Hi 👋, I'm Akriti Kumari
-
-🎓 I am a B.Tech CSE Final Year student  
-💻 Passionate about UI/UX and Frontend Development  
-🚀 Currently learning Full Stack Development  
-📚 Solving DSA in Java  
-
-- 🔭 I’m currently working on **Employee Management System**
-- 🌱 I’m currently learning **React & Node**
-- 👯 I’m looking to collaborate on **Frontend Projects**
-- 💬 Ask me about **Java, React, UI/UX**
--  📫 How to reach me: akritiofficial26@gmail.com
-<!--
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akriti-kumari-26a24b2b8/) 
@@ -31,6 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=akritiofficial26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->**akritiofficial26/akritiofficial26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
