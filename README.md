@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi there 👋 I'm Akriti<br><br>🎓 Computer Science Engineering Graduate  <br>💻 Frontend Developer passionate about building responsive and user-friendly web applications.  <br>🌱 Currently expanding my skills in Backend Development, Data Structures & Algorithms, and Full-Stack Development.  <br>⚡ Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MySQL, Git, GitHub  <br>🚀 Always eager to learn, build impactful projects, and contribute to innovative teams.<br>
 
 
