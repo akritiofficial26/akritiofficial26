@@ -1,3 +1,4 @@
+<!-- BACKUP: Current working profile before animated redesign -->
  Hi there 👋 I'm Akriti<br><br>
  🎓 Computer Science Engineering Graduate  <br>
  💻 Frontend Developer passionate about building responsive and user-friendly web applications.  <br>
