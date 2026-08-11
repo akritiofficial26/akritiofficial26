@@ -148,7 +148,7 @@
     <circle cx="104" cy="67" r="4" fill="#28c840"/>
 
     <g clip-path="url(#termTextClip)">
-      <text x="66" y="110" font-size="19" fill="#7CFC9A">user@dev:~$ cat README.md</text>
+      <text x="66" y="110" font-size="19" fill="#7CFC9A">akritiofficial26 README.md</text>
     </g>
     <rect x="66" y="94" width="9" height="20" fill="#ff4fd8">
       <animate attributeName="x" values="66;486" dur="0.01s" begin="1.9s" fill="freeze"/>
