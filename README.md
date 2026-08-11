@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./banner.svg?v=1" width="100%" alt="Akriti Kumari animated profile banner">
 </p>
-<p align="center">
-  <img src="./lanyard.svg?v=1" width="420" alt="Akriti Kumari developer ID card">
-</p>
-<!-- BACKUP: Current working profile before animated redesign -->
-<!-- ABOUT + ID CARD -->
 <table>
 <tr>
 <td width="55%" valign="top">
