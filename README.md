@@ -30,7 +30,7 @@ to innovative teams.
 
 <td width="45%" align="center" valign="top">
 
-<img src="./lanyard.svg?v=1" width="380" alt="Akriti Kumari Developer ID">
+<img src="./lanyard.svg?v=1" width="300" alt="Akriti Kumari Developer ID">
 
 </td>
 </tr>
