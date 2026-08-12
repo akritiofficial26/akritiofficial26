@@ -7,19 +7,20 @@
 
 <!-- DEVELOPER ID + PROJECTS -->
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="32%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-<img src="./lanyard.svg?v=1" width="300" alt="Akriti Kumari Developer ID">
+<img src="./lanyard.svg?v=1" width="250" alt="Akriti Kumari Developer ID">
 
 </td>
 
-<td width="68%" valign="middle">
+<td width="70%" valign="middle">
+
 <h2>💻 My Projects</h2>
 
-<table>
+<table width="100%">
 <tr>
 <th>Project</th>
 <th>Tech</th>
@@ -27,59 +28,51 @@
 </tr>
 
 <tr>
-<td>☕ <a href="https://github.com/akritiofficial26/Cafe-Nest">CafeNest</a></td>
+<td>
+☕ <a href="https://github.com/akritiofficial26/Cafe-Nest">CafeNest</a>
+</td>
 <td>React • Vite • Tailwind</td>
-<td>🔗</td>
+<td><a href="https://github.com/akritiofficial26/Cafe-Nest">🔗</a></td>
 </tr>
 
 <tr>
-<td>📚 <a href="https://github.com/akritiofficial26/Library_attendance_system">Library Attendance System</a></td>
+<td>
+📚 <a href="https://github.com/akritiofficial26/Library_attendance_system">Library Attendance System</a>
+</td>
 <td>React • Node • Express • PostgreSQL</td>
-<td>🔗</td>
+<td><a href="https://github.com/akritiofficial26/Library_attendance_system">🔗</a></td>
 </tr>
 
 <tr>
-<td>🌐 <a href="https://github.com/akritiofficial26/Portfolio_Website">Portfolio Website</a></td>
+<td>
+🌐 <a href="https://github.com/akritiofficial26/Portfolio_Website">Portfolio Website</a>
+</td>
 <td>React • JavaScript</td>
-<td>🔗</td>
+<td><a href="https://github.com/akritiofficial26/Portfolio_Website">🔗</a></td>
 </tr>
 
 <tr>
-<td>📡 <a href="https://github.com/akritiofficial26/Content_Broadcasting_System">Content Broadcasting System</a></td>
+<td>
+📡 <a href="https://github.com/akritiofficial26/Content_Broadcasting_System">Content Broadcasting System</a>
+</td>
 <td>Full Stack</td>
-<td>🔗</td>
+<td><a href="https://github.com/akritiofficial26/Content_Broadcasting_System">🔗</a></td>
 </tr>
 
 <tr>
-<td>👥 <a href="https://github.com/adisharma-git/employee-management-system">Employee Management System</a></td>
+<td>
+👥 <a href="https://github.com/adisharma-git/employee-management-system">Employee Management System</a>
+</td>
 <td>React • Node • PostgreSQL</td>
-<td>🔗</td>
+<td><a href="https://github.com/adisharma-git/employee-management-system">🔗</a></td>
 </tr>
 
 </table>
-
-<br>
-
-<blockquote>
-💜 Build. Learn. Improve. Repeat.
-</blockquote>
 
 </td>
 
 </tr>
 </table>
-
-</td>
-
-<td width="45%" align="center" valign="top">
-
-<img src="./lanyard.svg?v=1" width="280" alt="Akriti Kumari Developer ID">
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- TECH STACK -->
 
