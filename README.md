@@ -5,26 +5,70 @@
 <tr>
 <td width="55%" valign="top">
 
-<h2>👋 Hi, I'm Akriti</h2>
+<!-- DEVELOPER ID + PROJECTS -->
 
-<p>
-🎓 Computer Science Engineering Graduate<br>
-💻 Full Stack Developer<br>
-🌱 Currently expanding my skills in Backend Development,
-Data Structures & Algorithms, and Cloud/AWS.<br>
-🚀 Always eager to learn, build impactful projects, and contribute
-to innovative teams.
-</p>
+<table>
+<tr>
 
-<h3>🌐 Connect With Me</h3>
+<td width="35%" align="center" valign="middle">
 
-<a href="https://linkedin.com/in/akriti-kumari-26a24b2b8">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
+<img src="./lanyard.svg?v=1" width="300" alt="Akriti Kumari Developer ID">
 
-<a href="mailto:akritiofficial26@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-</a>
+</td>
+
+<td width="65%" valign="middle">
+
+<h2>💻 My Projects</h2>
+
+<table>
+<tr>
+<th>Project</th>
+<th>Tech</th>
+<th>GitHub</th>
+</tr>
+
+<tr>
+<td>☕ <a href="https://github.com/akritiofficial26/Cafe-Nest">CafeNest</a></td>
+<td>React • Vite • Tailwind</td>
+<td>🔗</td>
+</tr>
+
+<tr>
+<td>📚 <a href="https://github.com/akritiofficial26/Library_attendance_system">Library Attendance System</a></td>
+<td>React • Node • Express • PostgreSQL</td>
+<td>🔗</td>
+</tr>
+
+<tr>
+<td>🌐 <a href="https://github.com/akritiofficial26/Portfolio_Website">Portfolio Website</a></td>
+<td>React • JavaScript</td>
+<td>🔗</td>
+</tr>
+
+<tr>
+<td>📡 <a href="https://github.com/akritiofficial26/Content_Broadcasting_System">Content Broadcasting System</a></td>
+<td>Full Stack</td>
+<td>🔗</td>
+</tr>
+
+<tr>
+<td>👥 <a href="https://github.com/adisharma-git/employee-management-system">Employee Management System</a></td>
+<td>React • Node • PostgreSQL</td>
+<td>🔗</td>
+</tr>
+
+</table>
+
+<br>
+
+<blockquote>
+💜 Build. Learn. Improve. Repeat.
+</blockquote>
+
+</td>
+
+</tr>
+</table>
 
 </td>
 
