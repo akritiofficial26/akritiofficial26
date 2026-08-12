@@ -1,22 +1,21 @@
 <p align="center">
   <img src="./banner.svg?v=1" width="100%" alt="Akriti Kumari animated profile banner">
 </p>
-<table>
-<tr>
-<td width="55%" valign="top">
 
+<!-- ========================= -->
 <!-- DEVELOPER ID + PROJECTS -->
+<!-- ========================= -->
 
 <table width="100%">
 <tr>
 
-<td width="30%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
 <img src="./lanyard.svg?v=1" width="250" alt="Akriti Kumari Developer ID">
 
 </td>
 
-<td width="70%" valign="middle">
+<td width="68%" valign="middle">
 
 <h2>💻 My Projects</h2>
 
@@ -32,7 +31,9 @@
 ☕ <a href="https://github.com/akritiofficial26/Cafe-Nest">CafeNest</a>
 </td>
 <td>React • Vite • Tailwind</td>
-<td><a href="https://github.com/akritiofficial26/Cafe-Nest">🔗</a></td>
+<td>
+<a href="https://github.com/akritiofficial26/Cafe-Nest">🔗</a>
+</td>
 </tr>
 
 <tr>
@@ -40,7 +41,9 @@
 📚 <a href="https://github.com/akritiofficial26/Library_attendance_system">Library Attendance System</a>
 </td>
 <td>React • Node • Express • PostgreSQL</td>
-<td><a href="https://github.com/akritiofficial26/Library_attendance_system">🔗</a></td>
+<td>
+<a href="https://github.com/akritiofficial26/Library_attendance_system">🔗</a>
+</td>
 </tr>
 
 <tr>
@@ -48,7 +51,9 @@
 🌐 <a href="https://github.com/akritiofficial26/Portfolio_Website">Portfolio Website</a>
 </td>
 <td>React • JavaScript</td>
-<td><a href="https://github.com/akritiofficial26/Portfolio_Website">🔗</a></td>
+<td>
+<a href="https://github.com/akritiofficial26/Portfolio_Website">🔗</a>
+</td>
 </tr>
 
 <tr>
@@ -56,7 +61,9 @@
 📡 <a href="https://github.com/akritiofficial26/Content_Broadcasting_System">Content Broadcasting System</a>
 </td>
 <td>Full Stack</td>
-<td><a href="https://github.com/akritiofficial26/Content_Broadcasting_System">🔗</a></td>
+<td>
+<a href="https://github.com/akritiofficial26/Content_Broadcasting_System">🔗</a>
+</td>
 </tr>
 
 <tr>
@@ -64,7 +71,9 @@
 👥 <a href="https://github.com/adisharma-git/employee-management-system">Employee Management System</a>
 </td>
 <td>React • Node • PostgreSQL</td>
-<td><a href="https://github.com/adisharma-git/employee-management-system">🔗</a></td>
+<td>
+<a href="https://github.com/adisharma-git/employee-management-system">🔗</a>
+</td>
 </tr>
 
 </table>
@@ -74,7 +83,10 @@
 </tr>
 </table>
 
+
+<!-- ========================= -->
 <!-- TECH STACK -->
+<!-- ========================= -->
 
 <h2>💻 Tech Stack</h2>
 
@@ -104,22 +116,24 @@
 
 ---
 
+<!-- ========================= -->
 <!-- GITHUB DASHBOARD -->
+<!-- ========================= -->
 
 <h2>📊 GitHub Dashboard</h2>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=akritiofficial26&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+<img src="https://github-readme-stats.shion.dev/api?username=akritiofficial26&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%">
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=akritiofficial26&theme=dark&hide_border=false">
+<img src="https://streak-stats.demolab.com/?user=akritiofficial26&theme=dark&hide_border=false" width="100%">
 
 </td>
 
@@ -138,6 +152,10 @@
 
 ---
 
+<!-- ========================= -->
+<!-- ACHIEVEMENTS -->
+<!-- ========================= -->
+
 <h2>🏆 Achievements</h2>
 
 <p align="center">
@@ -147,6 +165,10 @@
 </p>
 
 ---
+
+<!-- ========================= -->
+<!-- RANDOM DEV QUOTE -->
+<!-- ========================= -->
 
 <h2>✍️ Random Dev Quote</h2>
 
@@ -158,6 +180,10 @@
 
 ---
 
+<!-- ========================= -->
+<!-- TOP CONTRIBUTED REPOSITORY -->
+<!-- ========================= -->
+
 <h2>🔝 Top Contributed Repository</h2>
 
 <p align="center">
@@ -167,6 +193,10 @@
 </p>
 
 ---
+
+<!-- ========================= -->
+<!-- PROFILE VIEWS -->
+<!-- ========================= -->
 
 <p align="center">
 
