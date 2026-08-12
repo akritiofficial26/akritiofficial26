@@ -10,14 +10,13 @@
 <table>
 <tr>
 
-<td width="35%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
 <img src="./lanyard.svg?v=1" width="300" alt="Akriti Kumari Developer ID">
 
 </td>
 
-<td width="65%" valign="middle">
-
+<td width="68%" valign="middle">
 <h2>💻 My Projects</h2>
 
 <table>
@@ -74,7 +73,7 @@
 
 <td width="45%" align="center" valign="top">
 
-<img src="./lanyard.svg?v=1" width="300" alt="Akriti Kumari Developer ID">
+<img src="./lanyard.svg?v=1" width="280" alt="Akriti Kumari Developer ID">
 
 </td>
 </tr>
