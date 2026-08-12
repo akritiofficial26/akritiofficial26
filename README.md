@@ -83,73 +83,33 @@
 </tr>
 </table>
 
+<!-- GITHUB STATS -->
 
-<!-- ========================= -->
-<!-- TECH STACK -->
-<!-- ========================= -->
+<h2 align="center">📊 GitHub Stats & Graphs</h2>
 
-<h2>💻 Tech Stack</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-
-<img src="https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white">
-
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
-
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-
-</p>
-
----
-
-<!-- ========================= -->
-<!-- GITHUB DASHBOARD -->
-<!-- ========================= -->
-
-<h2>📊 GitHub Dashboard</h2>
-
-<table width="100%">
+<table align="center">
 <tr>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=akritiofficial26&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=akritiofficial26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="Akriti's GitHub Stats"
+/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=akritiofficial26&theme=dark&hide_border=false" width="100%">
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akritiofficial26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akritiofficial26&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Akriti's Top Languages"
+/>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 <!-- ========================= -->
