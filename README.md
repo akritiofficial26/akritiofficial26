@@ -2,9 +2,9 @@
   <img src="./banner.svg?v=1" width="100%" alt="Akriti Kumari animated profile banner">
 </p>
 
-<!-- ========================= -->
+
 <!-- DEVELOPER ID + PROJECTS -->
-<!-- ========================= -->
+
 
 <table width="100%">
 <tr>
