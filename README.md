@@ -106,7 +106,7 @@
 <!-- ========================= -->
 <!-- ACHIEVEMENTS -->
 <!-- ========================= -->
-
+<!--
 <h2>🏆 Achievements</h2>
 
 <p align="center">
@@ -134,7 +134,7 @@
 <!-- ========================= -->
 <!-- TOP CONTRIBUTED REPOSITORY -->
 <!-- ========================= -->
-
+<!--
 <h2>🔝 Top Contributed Repository</h2>
 
 <p align="center">
