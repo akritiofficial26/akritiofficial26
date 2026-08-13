@@ -1,17 +1,25 @@
 <p align="center">
-  <img src="./banner.svg?v=1" width="100%" alt="Akriti Kumari animated profile banner">
+  <img
+    src="./banner.svg?v=1"
+    width="100%"
+    alt="Akriti Kumari animated profile banner"
+  >
 </p>
 
-
+<!-- ========================= -->
 <!-- DEVELOPER ID + PROJECTS -->
-
+<!-- ========================= -->
 
 <table width="100%">
 <tr>
 
 <td width="32%" align="center" valign="middle">
 
-<img src="./lanyard.svg?v=1" width="250" alt="Akriti Kumari Developer ID">
+<img
+  src="./lanyard.svg?v=1"
+  width="250"
+  alt="Akriti Kumari Developer ID"
+>
 
 </td>
 
@@ -28,7 +36,9 @@
 
 <tr>
 <td>
-☕ <a href="https://github.com/akritiofficial26/Cafe-Nest">CafeNest</a>
+☕ <a href="https://github.com/akritiofficial26/Cafe-Nest">
+CafeNest
+</a>
 </td>
 <td>React • Vite • Tailwind</td>
 <td>
@@ -38,7 +48,9 @@
 
 <tr>
 <td>
-📚 <a href="https://github.com/akritiofficial26/Library_attendance_system">Library Attendance System</a>
+📚 <a href="https://github.com/akritiofficial26/Library_attendance_system">
+Library Attendance System
+</a>
 </td>
 <td>React • Node • Express • PostgreSQL</td>
 <td>
@@ -48,7 +60,9 @@
 
 <tr>
 <td>
-🌐 <a href="https://github.com/akritiofficial26/Portfolio_Website">Portfolio Website</a>
+🌐 <a href="https://github.com/akritiofficial26/Portfolio_Website">
+Portfolio Website
+</a>
 </td>
 <td>React • JavaScript</td>
 <td>
@@ -58,7 +72,9 @@
 
 <tr>
 <td>
-📡 <a href="https://github.com/akritiofficial26/Content_Broadcasting_System">Content Broadcasting System</a>
+📡 <a href="https://github.com/akritiofficial26/Content_Broadcasting_System">
+Content Broadcasting System
+</a>
 </td>
 <td>Full Stack</td>
 <td>
@@ -68,7 +84,9 @@
 
 <tr>
 <td>
-👥 <a href="https://github.com/adisharma-git/employee-management-system">Employee Management System</a>
+👥 <a href="https://github.com/adisharma-git/employee-management-system">
+Employee Management System
+</a>
 </td>
 <td>React • Node • PostgreSQL</td>
 <td>
@@ -83,33 +101,30 @@
 </tr>
 </table>
 
+---
+
+<!-- ========================= -->
 <!-- GITHUB STATS -->
+<!-- ========================= -->
 
 <h2 align="center">📊 GitHub Stats & Graphs</h2>
 
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
+<p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=akritiofficial26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  src="./generated/github-stats.svg?v=1"
+  width="500"
   alt="Akriti's GitHub Stats"
-/>
-
-</td>
-
-<td width="50%" align="center">
+>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akritiofficial26&layout=compact&theme=tokyonight&hide_border=true"
+  src="./generated/languages.svg?v=1"
+  width="420"
   alt="Akriti's Top Languages"
-/>
+>
 
-</td>
+</p>
 
-</tr>
-</table>
 ---
 
 <!-- ========================= -->
@@ -120,7 +135,10 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akritiofficial26&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=akritiofficial26&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+  alt="Akriti's GitHub Achievements"
+>
 
 </p>
 
@@ -134,7 +152,10 @@
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+  alt="Random Developer Quote"
+>
 
 </p>
 
@@ -148,7 +169,10 @@
 
 <p align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=akritiofficial26&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<img
+  src="https://github-contributor-stats.vercel.app/api?username=akritiofficial26&limit=5&theme=dark&combine_all_yearly_contributions=true"
+  alt="Top Contributed Repositories"
+>
 
 </p>
 
@@ -160,6 +184,9 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=akritiofficial26&icon=0&color=0">
+<img
+  src="https://komarev.com/ghpvc/?username=akritiofficial26&icon=0&color=0"
+  alt="Profile Views"
+>
 
 </p>
