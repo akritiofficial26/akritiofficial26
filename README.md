@@ -85,8 +85,6 @@
 
 <!-- GITHUB STATS -->
 
-<img src="./stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./langs.svg?v=2" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -96,11 +94,10 @@
 
 </td>
 
-<td width="50%" align="center">
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akritiofficial26&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
 
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
 
 
 </td>
