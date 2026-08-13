@@ -85,26 +85,23 @@
 
 <!-- GITHUB STATS -->
 
-<h2 align="center">📊 GitHub Stats & Graphs</h2>
+<img src="./stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./langs.svg?v=2" alt="Top Languages" height="185"/>
 
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
+<br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=akritiofficial26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Akriti's GitHub Stats"
+  src="https://streak-stats.demolab.com?user=akritiofficial26&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc"   alt="GitHub Streak"
 />
 
 </td>
 
 <td width="50%" align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akritiofficial26&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Akriti's Top Languages"
-/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akritiofficial26&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+
+
 
 </td>
 
