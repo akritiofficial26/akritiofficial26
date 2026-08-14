@@ -30,9 +30,6 @@
 ☕ <a href="https://github.com/akritiofficial26/Cafe-Nest">CafeNest</a>
 </td>
 <td>React • Vite • Tailwind</td>
-<td>
-<a href="https://github.com/akritiofficial26/Cafe-Nest">🔗</a>
-</td>
 </tr>
 
 <tr>
@@ -40,9 +37,6 @@
 📚 <a href="https://github.com/akritiofficial26/Library_attendance_system">Library Attendance System</a>
 </td>
 <td>React • Node • Express • PostgreSQL</td>
-<td>
-<a href="https://github.com/akritiofficial26/Library_attendance_system">🔗</a>
-</td>
 </tr>
 
 <tr>
@@ -50,19 +44,13 @@
 🌐 <a href="https://github.com/akritiofficial26/Portfolio_Website">Portfolio Website</a>
 </td>
 <td>React • JavaScript</td>
-<td>
-<a href="https://github.com/akritiofficial26/Portfolio_Website">🔗</a>
-</td>
 </tr>
 
 <tr>
 <td>
 📡 <a href="https://github.com/akritiofficial26/Content_Broadcasting_System">Content Broadcasting System</a>
 </td>
-<td>Full Stack</td>
-<td>
-<a href="https://github.com/akritiofficial26/Content_Broadcasting_System">🔗</a>
-</td>
+<td>Frontend</td>
 </tr>
 
 <tr>
@@ -70,9 +58,6 @@
 👥 <a href="https://github.com/adisharma-git/employee-management-system">Employee Management System</a>
 </td>
 <td>React • Node • PostgreSQL</td>
-<td>
-<a href="https://github.com/adisharma-git/employee-management-system">🔗</a>
-</td>
 </tr>
 
 </table>
@@ -83,7 +68,6 @@
 </table>
 
 <!-- GITHUB STATS -->
-<br/><br/>
 <p align="center">
 <img
   src="https://streak-stats.demolab.com?user=akritiofficial26&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc"   alt="GitHub Streak"
@@ -93,14 +77,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akritiofficial26&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💜" alt="Contribution graph" width="95%"/>
 
-<br/><br/>
 <img src="https://raw.githubusercontent.com/akritiofficial26/akritiofficial26/output/github-snake-pink.svg" alt="Contribution snake"/>
 
 </td>
 
 </tr>
 </table>
----
+
 
 <!-- ========================= -->
 <!-- ACHIEVEMENTS -->
