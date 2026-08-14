@@ -68,15 +68,22 @@
 </table>
 
 <!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats & Graphs</h2>
+
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
+<br>
 <p align="center">
 <img
   src="https://streak-stats.demolab.com?user=akritiofficial26&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc"   alt="GitHub Streak"
 />
 
 </td>
-
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akritiofficial26&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💜" alt="Contribution graph" width="95%"/>
-
+<br>
 <img src="https://raw.githubusercontent.com/akritiofficial26/akritiofficial26/output/github-snake-pink.svg" alt="Contribution snake"/>
 
 </td>
