@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="40%" />
+  <img src="./profile/top-langs.svg" width="42%" />
 </p>
 <br/>
 <p align="center">
