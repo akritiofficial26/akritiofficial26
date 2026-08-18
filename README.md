@@ -22,7 +22,6 @@
 <tr>
 <th>Project</th>
 <th>Tech</th>
-<th>GitHub</th>
 </tr>
 
 <tr>
