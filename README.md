@@ -103,7 +103,7 @@
 <!-- ========================= -->
 <!-- ACHIEVEMENTS -->
 <!-- ========================= -->
-<!--
+
 <h2>🏆 Achievements</h2>
 
 <p align="center">
@@ -127,19 +127,7 @@
 </p>
 
 
-<!-- ========================= -->
-<!-- TOP CONTRIBUTED REPOSITORY -->
-<!-- ========================= -->
-<!--
-<h2>🔝 Top Contributed Repository</h2>
 
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=akritiofficial26&limit=5&theme=dark&combine_all_yearly_contributions=true">
-
-</p>
-
----
 
 <!-- ========================= -->
 <!-- PROFILE VIEWS -->
