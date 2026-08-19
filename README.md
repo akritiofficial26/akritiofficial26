@@ -99,24 +99,7 @@
 </tr>
 </table>
 
-
-<!-- ========================= -->
-<!-- ACHIEVEMENTS -->
-<!-- ========================= -->
-
-<h2>🏆 Achievements</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akritiofficial26&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-
-</p>
-
-
-
-<!-- ========================= -->
 <!-- RANDOM DEV QUOTE -->
-<!-- ========================= -->
 
 <h2>✍️ Random Dev Quote</h2>
 
@@ -127,11 +110,7 @@
 </p>
 
 
-
-
-<!-- ========================= -->
 <!-- PROFILE VIEWS -->
-<!-- ========================= -->
 
 <p align="center">
 
