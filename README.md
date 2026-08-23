@@ -112,8 +112,4 @@
 
 <!-- PROFILE VIEWS -->
 
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=akritiofficial26&icon=0&color=0">
-
-</p>
