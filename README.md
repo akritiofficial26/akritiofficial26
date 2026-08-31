@@ -101,7 +101,7 @@
 
 <!-- RANDOM DEV QUOTE -->
 
-<h2>✍️ Random Dev Quote</h2>
+<!--<h2>✍️ Random Dev Quote</h2>
 
 <p align="center">
 
